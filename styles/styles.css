@@ -8,9 +8,10 @@
     width: 200px;
 }
 
-#resume{
-    width: 400px;
+.resume{
+    background-color: rgba(255, 255, 255, .5);
 }
+
 h1{
     font-family: 'Avenir', sans-serif;
     color: #000;
@@ -28,6 +29,19 @@ p{
     background-color: rgba(255, 255, 255, .5);
     padding: 2%;
     margin-top: 5%;
+}
+header{
+    font-family: 'Avenir', sans-serif;
+    font-size: 1.2em;
+    line-height: 1.6em;
+}
+sub-header{
+    font-size: .8em;
+    padding-right: 4%;
+    font-weight: bold;
+}
+body{
+    font-size: .8em;
 }
 
 
